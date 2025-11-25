@@ -1,4 +1,124 @@
-# Challenge 1 — VibeStream
+# Challenge 1 - Scanner de Malware
+
+## Description
+
+Script Python qui analyse une URL pour détecter des malwares et génère un compte-rendu détaillé des menaces potentielles.
+
+## Fonctionnalités
+
+Le scanner effectue les analyses suivantes :
+
+- ✅ **En-têtes de sécurité** : Vérifie la présence de CSP, X-Frame-Options, HSTS, etc.
+- 🔍 **Scripts JavaScript** : Détecte les patterns suspects (eval, document.write, obfuscation)
+- 🖼️ **Iframes** : Identifie les iframes cachés ou pointant vers des domaines suspects
+- 🔗 **Liens externes** : Analyse les liens vers des domaines potentiellement malveillants
+- 🔐 **Code obfusqué** : Détecte le code JavaScript fortement obfusqué
+- ⚠️ **Patterns malveillants** : Recherche de patterns caractéristiques de malware
+
+## Installation
+
+```bash
+# Installer les dépendances
+pip install -r requirements.txt
+```
+
+## Utilisation
+
+### Syntaxe de base
+
+```bash
+python malware_scanner.py <URL>
+```
+
+### Exemples
+
+```bash
+# Analyse simple
+python malware_scanner.py https://example.com
+
+# Avec fichier de sortie personnalisé
+python malware_scanner.py https://example.com -o mon_rapport.txt
+
+# Mode verbeux pour le débogage
+python malware_scanner.py https://suspicious-site.com --verbose
+```
+
+## Sortie
+
+Le script génère deux fichiers :
+
+1. **Rapport texte** (`.txt`) : Rapport lisible avec toutes les informations
+2. **Données JSON** (`.json`) : Données structurées pour traitement automatique
+
+### Niveaux de risque
+
+- 🟢 **LOW** : Site semble sûr
+- 🟡 **MEDIUM** : Quelques éléments suspects, prudence recommandée
+- 🟠 **HIGH** : Risques élevés détectés
+- 🔴 **CRITICAL** : Menaces critiques, site potentiellement dangereux
+
+## Exemple de rapport
+
+```
+================================================================================
+RAPPORT D'ANALYSE DE MALWARE
+================================================================================
+
+📅 Date: 2025-11-25T10:30:00
+🌐 URL analysée: https://example.com
+
+🟢 NIVEAU DE RISQUE: LOW
+
+================================================================================
+
+🚨 MENACES DÉTECTÉES: 0
+--------------------------------------------------------------------------------
+✓ Aucune menace majeure détectée
+
+🔒 EN-TÊTES DE SÉCURITÉ
+--------------------------------------------------------------------------------
+✓ Content-Security-Policy: default-src 'self'
+✗ X-Frame-Options: ABSENT
+✓ X-Content-Type-Options: nosniff
+...
+```
+
+## Détection de menaces
+
+### Patterns suspects détectés
+
+- `eval()` : Exécution de code dynamique
+- `document.write` : Injection de contenu
+- `atob()` / `fromCharCode` : Obfuscation
+- Code base64 : Décodage suspect
+- Redirections forcées
+- Cryptojacking (mining de cryptomonnaies)
+
+### Domaines suspects
+
+Le scanner détecte les liens vers :
+- Raccourcisseurs d'URL (bit.ly, tinyurl, etc.)
+- TLDs gratuits souvent malveillants (.tk, .ml, .ga, etc.)
+- Domaines non-HTTPS
+
+## Limitations
+
+- Ne peut pas détecter tous les types de malwares
+- Les sites nécessitant une authentification ne sont pas totalement analysés
+- Le JavaScript exécuté dynamiquement n'est pas analysé
+- Pas de sandbox pour l'exécution de code
+
+## Améliorations futures
+
+- [ ] Intégration avec VirusTotal API
+- [ ] Analyse de fichiers téléchargés
+- [ ] Détection de phishing par analyse de contenu
+- [ ] Support de l'authentification
+- [ ] Analyse du trafic réseau
+
+## Sécurité
+
+Ce script effectue uniquement des requêtes GET et n'exécute aucun code du site analysé. Il est conçu pour être sûr à utiliser. — VibeStream
 
 ## 🔧 Test Scorton Extension & API
 
