@@ -1,0 +1,579 @@
+[
+  {
+    "url": "https://lyc-rosaparks-montgeron.ac-versailles.fr",
+    "domain": "lyc-rosaparks-montgeron.ac-versailles.fr",
+    "domain_len": "40",
+    "subdomain_depth": "2",
+    "has_idn": "0",
+    "TLS_strength": "384",
+    "TLS_expiry_days": "303",
+    "cert_self_signed": "0",
+    "cert_cn": "*.ac-versailles.fr",
+    "san_count": "1",
+    "CSP_completeness": "0.0",
+    "Security_headers_count": "0",
+    "CSRF_protection": "False",
+    "Secure_cookie_flag": "0",
+    "CSP_header": "False",
+    "HSTS_header": "False",
+    "X_Frame_Options": "False",
+    "Nb_ports_open": "2",
+    "GeoIP_risk": "low",
+    "Hosting_type": "self-hosted",
+    "Blacklist_hits": "0",
+    "Domain_age_days": "None",
+    "WHOIS_privacy": "0",
+    "Metadata": {
+      "Metadata_exposure": false,
+      "Metadata_score": 0,
+      "Nb_insecure_cookies": 0,
+      "Nb_headers_exposed": 0,
+      "Nb_ssl_issues": 0
+    },
+    "CVE_features": {
+      "Nb_CVE_open": 0,
+      "Max_CVE_severity": 0,
+      "Exploit_available": false
+    },
+    "CVE_summaries": [],
+    "Trackers": {
+      "Tracker_detected": true,
+      "Trackers_found": [
+        "lyc-rosaparks-montgeron.ac-versailles.fr"
+      ],
+      "Risky_service_detected": false
+    },
+    "html": "<!DOCTYPE html><html class=\"page_sommaire sommaire_sommaire composition_sommaire ltr fr js\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" dir=\"ltr\"><!--<![endif]--><head>\n\t\t<script type=\"text/javascript\">/*<![CDATA[*/(function(H){H.className=H.className.replace(/\\bno-js\\b/,'js')})(document.documentElement);/*]]>*/</script>\n\t\t\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n\n\t\t<title>Lycée Rosa Parks de Montgeron</title>\n\n<link rel=\"icon\" type=\"image/x-icon\" href=\"https://lyc-rosaparks-montgeron.ac-versailles.fr/plugins/scolaspip/favicon.ico\">\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"https://lyc-rosaparks-montgeron.ac-versailles.fr/plugins/scolaspip/favicon.ico\"><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n\n\n<meta name=\"generator\" content=\"SPIP 4.1.18\">\n\n\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Syndiquer tout le site\" href=\"spip.php?page=backend\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n<link rel=\"stylesheet\" href=\"local/cache-css/bf4379f2032c557a93c1ae383e60a798.css?1724690537\" type=\"text/css\">\n\n\n\n\n\n\n\n\n\n\n\n<script type=\"text/javascript\">var var_zajax_content='content';</script><script type=\"text/javascript\">/* <![CDATA[ */\nvar mediabox_settings={\"auto_detect\":true,\"ns\":\"box\",\"tt_img\":true,\"sel_g\":\"#documents_portfolio a[type='image\\/jpeg'],#documents_portfolio a[type='image\\/png'],#documents_portfolio a[type='image\\/gif']\",\"sel_c\":\".mediabox\",\"str_ssStart\":\"Diaporama\",\"str_ssStop\":\"Arr\\u00eater\",\"str_cur\":\"{current}\\/{total}\",\"str_prev\":\"Pr\\u00e9c\\u00e9dent\",\"str_next\":\"Suivant\",\"str_close\":\"Fermer\",\"str_loading\":\"Chargement\\u2026\",\"str_petc\":\"Taper \\u2019Echap\\u2019 pour fermer\",\"str_dialTitDef\":\"Boite de dialogue\",\"str_dialTitMed\":\"Affichage d\\u2019un media\",\"splash_url\":\"\",\"lity\":{\"skin\":\"_simple-dark\",\"maxWidth\":\"90%\",\"maxHeight\":\"90%\",\"minWidth\":\"400px\",\"minHeight\":\"\",\"slideshow_speed\":\"2500\",\"opacite\":\"0.9\",\"defaultCaptionState\":\"expanded\"}};\n/* ]]> */</script>\n<!-- insert_head_css -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script type=\"text/javascript\" src=\"local/cache-js/72f2445cc1ded5708e35bc5c75a374ad.js?1724703009\"></script><style type=\"text/css\">.box_mediabox .lity-container{max-width:90vw;max-height:90vh;}.box_mediabox .lity-content{min-width:400px;}.box_mediabox:before{opacity:0.9}</style>\n\n\n\n\n\n\n\n\n\n\n<!-- insert_head -->\n\n\n\n\n\n\n\n\n\n\n\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://lyc-rosaparks-montgeron.ac-versailles.fr/oembed.api/?format=json&amp;url=https%3A%2F%2Flyc-rosaparks-montgeron.ac-versailles.fr%2F\">\t</head>\n\t<body>\n<div class=\"page container\">\n\t<div class=\"header\" id=\"header\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row\">\n<header class=\"accueil clearfix span12\">\n<div class=\"bandeau_image\"><a href=\"http://lyc-rosaparks-montgeron.ac-versailles.fr\"><img src=\"IMG/logo/siteon0.png?1526303505\" class=\"spip_logo\" width=\"100%\" height=\"100%\" alt=\"Lycée Rosa Parks de Montgeron\" title=\"Lycée Rosa Parks de Montgeron\"></a></div>\n\t\t\n\t\n\n<div class=\"logo-institution\">\n\t<a class=\"spip_out\" href=\"http://www.ac-versailles.fr\" title=\"Lien externe — Site de l'académie de Versailles\" target=\"_blank\"><img src=\"plugins/scolaspip/img/logo_academie.png?1669195641\" alt=\"Site de l'académie de Versailles\" width=\"200\" height=\"141\"></a>\n</div>\n</header>\n</div>\t\t</div>\n\t</div>\n\t\t\n\t<div class=\"navbar navbar-inverse \" id=\"nav\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"menu menu-container navbar-inner  navbar-inverse navbar-static-top \">\n\t<a class=\"btn btn-navbar\" data-toggle=\"collapse\" data-target=\".nav-collapse-main\"><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span></a>\n<div class=\"nav-collapse nav-collapse-main collapse\"><ul class=\"menu-items menu-liste nav span12 nav navbar-nav\">\n\t\t<li class=\"item menu-entree \"><a href=\"http://lyc-rosaparks-montgeron.ac-versailles.fr/\"><img src=\"plugins/scolaspip/img/picto-home.png?1669195641\" alt=\"Accueil\" width=\"20\" height=\"20\"> </a></li>\t\t\n\t\t <li class=\"item menu-entree  btagenda  invisible\"><a href=\"spip.php?page=agenda&amp;date_debut=2025-11-01\" title=\"Agenda complet\">Agenda</a></li>\n\n\t\t\n\n\t\t\n\t\t<li class=\"item menu-entree\">\n\t\t\t<a href=\"spip.php?article1704\">Nous contacter</a>\n\t\t</li>\n\t\t\n\t\t<li class=\"item menu-entree\">\n\t\t\t<a href=\"spip.php?article806\">Pronote via l’ENT</a>\n\t\t</li>\n\t\t\n\n\t\t<li class=\"item menu-entree dropdown  invisible\">\n\t\t\t<a href=\"spip.php?page=sites\" title=\"Tous les sites sélectionnés\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\">Liens&nbsp;<b class=\"caret  invisible\"></b></a>\n\t\t\t<ul class=\"dropdown-menu\" role=\"menu\">\n\t\t\t\t<li class=\"item menu-entree \"><a href=\"spip.php?page=sites\">Tous les liens</a></li>\n\t\t\t\t\n\t\t\t</ul>\n\t\t</li>\n\t\t\n\t\t\n\t\t<li class=\"item menu-entree\"><a href=\"https://monlycee.net/\" title=\"Lien externe\" class=\"spip_out\" target=\"_blank\">Monlycée.net</a></li>\n\t\t\n\t</ul></div>\n</div>\n\t\t</div>\n\t</div>\n\t\t\n\t<div class=\"container \">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"content span9\" id=\"content\">\n\t\t\t\t<ul class=\"breadcrumb\">\n\t\n\t\n\t\n\t\n\t\n\t\n\t \n\t<li><a href=\"http://lyc-rosaparks-montgeron.ac-versailles.fr/\">Accueil</a><span class=\"divider\"> &gt; </span></li>\n\t\n</ul>\t\t\t\t<div class=\"inner-content\"><section>\n\n\t<header class=\"cartouche hide\">\n\t\t<h1>Lycée Rosa Parks de Montgeron</h1>\n\t</header>\n\n\t\n\n\t\n</section>\n\n<section class=\"span6\">\n\t<div class=\"main\">\n\n\t\t\n\t\t \n\n\t\t<div class=\"liste long articles\">\n\t\t\t<div class=\"ajaxbloc bind-ajaxReload\" data-ajax-env=\"fFOEZKslPFAdawf8yGyZl8qGi8MrwtVtupS10Ago6c+C9f3e9OFl2ysBrHacDwxjqajZvWmLlHvJlEAqp7a60swTE3HJ1AXM1+u0vpn3H6CDLcHV0gZ+gYw03UZUsDK9M2croPjA7PG0hXVBNCojM9VWmVqRcsA81zz7bSi91u92ePpnaWReLaBb3WTh1dEvIIr+NwvbGkJQx4vujZkvG0JCu7b8/6d28At0Sz1cumPoh3AHhsWR8TMF5loGM3Y=\" data-origin=\"./\">\n\n\n\t<a id=\"pagination5\" class=\"pagination_ancre\"></a>\n\t<h2 class=\"h2\">Derniers articles</h2>\n\t<ul class=\"liste-items\">\n\t\t\n\t\t<li class=\"item\"><article class=\"entry article hentry\">\n\t<strong class=\"h3-like entry-title\"><a href=\"spip.php?article2039\" rel=\"bookmark\">Les BTS SAM au Cross du lycée pour ELA<span class=\"read-more hide\"><i class=\"icon-chevron-right\" title=\"Lire la suite de «Les BTS SAM au Cross du lycée pour ELA»\"></i></span></a></strong>\n\t<p class=\"publication\">\n\t\n\t\n\t<time pubdate=\"pubdate\" datetime=\"2025-11-07T16:32:40Z\"><i class=\"icon-calendar\"></i> 7 novembre</time>\n\t\n\t\n\t\n\t</p><div class=\"introduction entry-content \">\n<p>A la fois coureurs et bénévoles, les étudiants en BTS SAM ont participé avec plaisir et intérêt au CROSS du lycée, organisé le 14 octobre 2025 en soutien à l’association ELA. \n<br class=\"autobr\">\nVoici l’affiche qu’ils ont réalisée à cette occasion, en remerciement à l’équipe organisatrice du CROSS et à tous les participants&nbsp;(...)</p>\n</div>\n\t</article></li>\n\t\t\n\t\t<li class=\"item\"><article class=\"entry article hentry\">\n\t<strong class=\"h3-like entry-title\"><a href=\"spip.php?article2038\" rel=\"bookmark\">Remise des diplômes 2025 (MAJ)<span class=\"read-more hide\"><i class=\"icon-chevron-right\" title=\"Lire la suite de «Remise des diplômes 2025 (MAJ)»\"></i></span></a></strong>\n\t<p class=\"publication\">\n\t\n\t\n\t<time pubdate=\"pubdate\" datetime=\"2025-10-17T12:23:00Z\"><i class=\"icon-calendar\"></i> 17 octobre</time>\n\t\n\t\n\t\n\t</p><div class=\"introduction entry-content \">\n<p>Veuillez trouver ci-dessous le tableau de votre remise de diplôme de l’année 2025. \n<br class=\"autobr\">\nVendredi 14 novembre 2025 à partir de 18h15&nbsp;: T01 / T04 / T07 / T10 / T13 / T16 / T19 / T22 / T25 / BTS 2 SAM \n<br class=\"autobr\">\nLundi 17 novembre 2025 à partir de 18h15&nbsp;: T02 / T05 / T08 / T11 / T14 / T17 / T20 / T23 / BTS 2 CG&nbsp;(...)</p>\n</div>\n\t</article></li>\n\t\t\n\t\t<li class=\"item\"><article class=\"entry article hentry\">\n\t<strong class=\"h3-like entry-title\"><a href=\"spip.php?article2036\" rel=\"bookmark\">Menu du 24 au 28 novembre 2025<span class=\"read-more hide\"><i class=\"icon-chevron-right\" title=\"Lire la suite de «Menu du 24 au 28 novembre 2025»\"></i></span></a></strong>\n\t<p class=\"publication\">\n\t\n\t\n\t<time pubdate=\"pubdate\" datetime=\"2025-10-10T09:58:29Z\"><i class=\"icon-calendar\"></i> 10 octobre</time>\n\t\n\t\n\t\n\t</p><div class=\"introduction entry-content \">\n<p>Menu du lundi 24 au vendredi 28 novembre 2025</p>\n</div>\n\t</article></li>\n\t\t\n\t\t<li class=\"item\"><article class=\"entry article hentry\">\n\t<strong class=\"h3-like entry-title\"><a href=\"spip.php?article1970\" rel=\"bookmark\">Permanences 2025-2026 des PsyEN au lycée<span class=\"read-more hide\"><i class=\"icon-chevron-right\" title=\"Lire la suite de «Permanences 2025-2026 des PsyEN au lycée»\"></i></span></a></strong>\n\t<p class=\"publication\">\n\t\n\t\n\t<time pubdate=\"pubdate\" datetime=\"2025-09-22T10:00:00Z\"><i class=\"icon-calendar\"></i> 22 septembre</time>\n\t\n\t\n\t\n\t</p><div class=\"introduction entry-content \">\n<p>Deux psychologues de l’Éducation nationale interviennent au lycée&nbsp;:\n<br class=\"autobr\">\n \n\n– Mme&nbsp;PENNELLE pour les 201 à 218\n<br class=\"autobr\">\n– Mme&nbsp;GUILLAUME pour les 219 à 235\n<br class=\"autobr\">\n– Les élèves de 1ère et terminale sont pris en charge par les PsyEN indépendamment de leur classe. \n<br class=\"autobr\">\nLes rendez-vous (pour les élèves mais les parents peuvent aussi&nbsp;(...)</p>\n</div>\n\t</article></li>\n\t\t\n\t\t<li class=\"item\"><article class=\"entry article hentry\">\n\t<strong class=\"h3-like entry-title\"><a href=\"spip.php?article1808\" rel=\"bookmark\">Réunions de rentrée 2025 des fédérations de parents d’élèves<span class=\"read-more hide\"><i class=\"icon-chevron-right\" title=\"Lire la suite de «Réunions de rentrée 2025 des fédérations de parents d'élèves»\"></i></span></a></strong>\n\t<p class=\"publication\">\n\t\n\t\n\t<time pubdate=\"pubdate\" datetime=\"2025-09-09T14:00:00Z\"><i class=\"icon-calendar\"></i> 9 septembre</time>\n\t\n\t\n\t\n\t</p><div class=\"introduction entry-content \">\n<p>Réunions de rentrée des fédérations de parents d’élèves pour l’année scolaire 2025/2026&nbsp;: la PEEP, l’APEESPM, la FCPE FCPE  (Fédération des conseils de parents d’élèves)&nbsp;: Jeudi 25 septembre à partir de 18h à l’auditorium du lycée fcpe91.rosaparks@gmail.com \n<br class=\"autobr\">\n PEEP&nbsp;: (Fédération des Parents d’Elèves de&nbsp;(...)</p>\n</div>\n\t</article></li>\n\t\t\n\t</ul>\n\t<div class=\"pagination\"><ul><li class=\"active\"><span class=\"on active\">0</span></li><li><a href=\"./?debut5=5#pagination5\" class=\"lien_pagination bind-ajax\" rel=\"nofollow\">5</a></li>\n\t</ul></div>\n</div><!--ajaxbloc-->\n\t\t</div>\n\n\t</div>\n</section>\n\n\n<section class=\"span3\">\n\t \n    \n    <div class=\"invisible\">\n\t<div id=\"calendar\" class=\"calendriermini minicalendar\">\n\t<h2 class=\"menu-titre\">Calendrier</h2>\n\t<div class=\"calendar-container loaded\" data-json=\"spip.php?page=calendrier_mini_event.json&amp;lang=fr\" data-year=\"2025\" data-month=\"11\" data-url=\"spip.php?page=agenda\" data-vardate=\"date_debut\" aria-busy=\"false\"><span class=\"image_loading\"></span>\n\t<div class=\"datepicker datepicker-inline\" style=\"\"><div class=\"datepicker-days\" style=\"\"><table class=\"table-condensed\"><thead><tr><th colspan=\"7\" class=\"datepicker-title\" style=\"display: none;\"></th></tr><tr><th class=\"prev\">«</th><th colspan=\"5\" class=\"datepicker-switch\">novembre 2025</th><th class=\"next\">»</th></tr><tr><th class=\"dow\">l.</th><th class=\"dow\">m.</th><th class=\"dow\">m.</th><th class=\"dow\">j.</th><th class=\"dow\">v.</th><th class=\"dow\">s.</th><th class=\"dow\">d.</th></tr></thead><tbody><tr><td class=\"old day\" data-date=\"1761523200000\">27</td><td class=\"old day\" data-date=\"1761609600000\">28</td><td class=\"old day\" data-date=\"1761696000000\">29</td><td class=\"old day\" data-date=\"1761782400000\">30</td><td class=\"old day\" data-date=\"1761868800000\">31</td><td class=\"day\" data-date=\"1761955200000\">1</td><td class=\"day\" data-date=\"1762041600000\">2</td></tr><tr><td class=\"day\" data-date=\"1762128000000\">3</td><td class=\"day\" data-date=\"1762214400000\">4</td><td class=\"day\" data-date=\"1762300800000\">5</td><td class=\"day\" data-date=\"1762387200000\">6</td><td class=\"day\" data-date=\"1762473600000\">7</td><td class=\"day\" data-date=\"1762560000000\">8</td><td class=\"day\" data-date=\"1762646400000\">9</td></tr><tr><td class=\"day\" data-date=\"1762732800000\">10</td><td class=\"day\" data-date=\"1762819200000\">11</td><td class=\"day\" data-date=\"1762905600000\">12</td><td class=\"day\" data-date=\"1762992000000\">13</td><td class=\"day\" data-date=\"1763078400000\">14</td><td class=\"day\" data-date=\"1763164800000\">15</td><td class=\"day\" data-date=\"1763251200000\">16</td></tr><tr><td class=\"day\" data-date=\"1763337600000\">17</td><td class=\"day\" data-date=\"1763424000000\">18</td><td class=\"day\" data-date=\"1763510400000\">19</td><td class=\"day\" data-date=\"1763596800000\">20</td><td class=\"day\" data-date=\"1763683200000\">21</td><td class=\"day\" data-date=\"1763769600000\">22</td><td class=\"day\" data-date=\"1763856000000\">23</td></tr><tr><td class=\"day\" data-date=\"1763942400000\">24</td><td class=\"day\" data-date=\"1764028800000\">25</td><td class=\"day\" data-date=\"1764115200000\">26</td><td class=\"day\" data-date=\"1764201600000\">27</td><td class=\"day\" data-date=\"1764288000000\">28</td><td class=\"day\" data-date=\"1764374400000\">29</td><td class=\"day\" data-date=\"1764460800000\">30</td></tr><tr><td class=\"new day\" data-date=\"1764547200000\">1</td><td class=\"new day\" data-date=\"1764633600000\">2</td><td class=\"new day\" data-date=\"1764720000000\">3</td><td class=\"new day\" data-date=\"1764806400000\">4</td><td class=\"new day\" data-date=\"1764892800000\">5</td><td class=\"new day\" data-date=\"1764979200000\">6</td><td class=\"new day\" data-date=\"1765065600000\">7</td></tr></tbody><tfoot><tr><th colspan=\"7\" class=\"today\" style=\"display: none;\">aujourd’hui</th></tr><tr><th colspan=\"7\" class=\"clear\" style=\"display: none;\">supprimer</th></tr></tfoot></table></div><div class=\"datepicker-months\" style=\"display: none;\"><table class=\"table-condensed\"><thead><tr><th colspan=\"7\" class=\"datepicker-title\" style=\"display: none;\"></th></tr><tr><th class=\"prev\">«</th><th colspan=\"5\" class=\"datepicker-switch\">2025</th><th class=\"next\">»</th></tr></thead><tbody><tr><td colspan=\"7\"><span class=\"month\">janv.</span><span class=\"month\">févr.</span><span class=\"month\">mars</span><span class=\"month\">avr.</span><span class=\"month\">mai</span><span class=\"month\">juin</span><span class=\"month\">juil.</span><span class=\"month\">août</span><span class=\"month\">sept.</span><span class=\"month\">oct.</span><span class=\"month focused\">nov.</span><span class=\"month\">déc.</span></td></tr></tbody><tfoot><tr><th colspan=\"7\" class=\"today\" style=\"display: none;\">aujourd’hui</th></tr><tr><th colspan=\"7\" class=\"clear\" style=\"display: none;\">supprimer</th></tr></tfoot></table></div><div class=\"datepicker-years\" style=\"display: none;\"><table class=\"table-condensed\"><thead><tr><th colspan=\"7\" class=\"datepicker-title\" style=\"display: none;\"></th></tr><tr><th class=\"prev\">«</th><th colspan=\"5\" class=\"datepicker-switch\">2020-2029</th><th class=\"next\">»</th></tr></thead><tbody><tr><td colspan=\"7\"><span class=\"year old\">2019</span><span class=\"year\">2020</span><span class=\"year\">2021</span><span class=\"year\">2022</span><span class=\"year\">2023</span><span class=\"year\">2024</span><span class=\"year focused\">2025</span><span class=\"year\">2026</span><span class=\"year\">2027</span><span class=\"year\">2028</span><span class=\"year\">2029</span><span class=\"year new\">2030</span></td></tr></tbody><tfoot><tr><th colspan=\"7\" class=\"today\" style=\"display: none;\">aujourd’hui</th></tr><tr><th colspan=\"7\" class=\"clear\" style=\"display: none;\">supprimer</th></tr></tfoot></table></div><div class=\"datepicker-decades\" style=\"display: none;\"><table class=\"table-condensed\"><thead><tr><th colspan=\"7\" class=\"datepicker-title\" style=\"display: none;\"></th></tr><tr><th class=\"prev\">«</th><th colspan=\"5\" class=\"datepicker-switch\">2000-2090</th><th class=\"next\">»</th></tr></thead><tbody><tr><td colspan=\"7\"><span class=\"decade old\">1990</span><span class=\"decade\">2000</span><span class=\"decade\">2010</span><span class=\"decade focused\">2020</span><span class=\"decade\">2030</span><span class=\"decade\">2040</span><span class=\"decade\">2050</span><span class=\"decade\">2060</span><span class=\"decade\">2070</span><span class=\"decade\">2080</span><span class=\"decade\">2090</span><span class=\"decade new\">2100</span></td></tr></tbody><tfoot><tr><th colspan=\"7\" class=\"today\" style=\"display: none;\">aujourd’hui</th></tr><tr><th colspan=\"7\" class=\"clear\" style=\"display: none;\">supprimer</th></tr></tfoot></table></div><div class=\"datepicker-centuries\" style=\"display: none;\"><table class=\"table-condensed\"><thead><tr><th colspan=\"7\" class=\"datepicker-title\" style=\"display: none;\"></th></tr><tr><th class=\"prev\">«</th><th colspan=\"5\" class=\"datepicker-switch\">2000-2900</th><th class=\"next\">»</th></tr></thead><tbody><tr><td colspan=\"7\"><span class=\"century old\">1900</span><span class=\"century focused\">2000</span><span class=\"century\">2100</span><span class=\"century\">2200</span><span class=\"century\">2300</span><span class=\"century\">2400</span><span class=\"century\">2500</span><span class=\"century\">2600</span><span class=\"century\">2700</span><span class=\"century\">2800</span><span class=\"century\">2900</span><span class=\"century new\">3000</span></td></tr></tbody><tfoot><tr><th colspan=\"7\" class=\"today\" style=\"display: none;\">aujourd’hui</th></tr><tr><th colspan=\"7\" class=\"clear\" style=\"display: none;\">supprimer</th></tr></tfoot></table></div></div></div>\n</div><script type=\"text/javascript\">\nif (window.jQuery){jQuery(function(){\n\tjQuery.getScript('local/cache-js/jsdyn-javascript_calendrier_mini_js-be30e56d-minify-6aa8.js',function(){minical.init('.minicalendar .calendar-container');});\n});}\n</script><style type=\"text/css\">\n/*!\n* Datepicker for Bootstrap v1.9.0 (https://github.com/uxsolutions/bootstrap-datepicker)\n*\n* Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)\n*/\n.datepicker{padding:4px;border-radius:4px;direction:ltr}\n.datepicker-inline{width:220px;border:1px solid var(--minical-border-color,#eee)}\n.datepicker-rtl{direction:rtl}\n.datepicker-rtl.dropdown-menu{left:auto}\n.datepicker-rtl table tr td span{float:right}\n.datepicker-dropdown{top:0;left:0}\n.datepicker-dropdown:before{content:'';display:inline-block;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:7px solid var(--minical-border-dark-color,#999);border-top:0;border-bottom-color:var(--minical-border-color,#eee);position:absolute}\n.datepicker-dropdown:after{content:'';display:inline-block;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:6px solid #fff;border-top:0;position:absolute}\n.datepicker-dropdown.datepicker-orient-left:before{left:6px}\n.datepicker-dropdown.datepicker-orient-left:after{left:7px}\n.datepicker-dropdown.datepicker-orient-right:before{right:6px}\n.datepicker-dropdown.datepicker-orient-right:after{right:7px}\n.datepicker-dropdown.datepicker-orient-bottom:before{top:-7px}\n.datepicker-dropdown.datepicker-orient-bottom:after{top:-6px}\n.datepicker-dropdown.datepicker-orient-top:before{bottom:-7px;border-bottom:0;border-top:7px solid var(--minical-border-dark-color,#999);}\n.datepicker-dropdown.datepicker-orient-top:after{bottom:-6px;border-bottom:0;border-top:6px solid #fff}\n.datepicker table{margin:0;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}\n.datepicker td,.datepicker th{text-align:center;width:20px;height:20px;border-radius:4px;border:none}\n.table-striped .datepicker table tr td,.table-striped .datepicker table tr th{background-color:transparent}\n.datepicker table tr td.day:hover,.datepicker table tr td.day.focused{background:#eee;cursor:pointer}\n.datepicker table tr td.old,.datepicker table tr td.new{color:var(--minical-day-disabled-color,#999);}\n.datepicker table tr td.disabled,.datepicker table tr td.disabled:hover{background:none;color:var(--minical-day-disabled-color,#999);;cursor:default}\n.datepicker table tr td.highlighted{background:#d9edf7;border-radius:0}\n.datepicker table tr td.range,.datepicker table tr td.range:hover,.datepicker table tr td.range.disabled,.datepicker table tr td.range.disabled:hover{background:#eee;border-radius:0}\n.datepicker table tr td.active,.datepicker table tr td.active:hover,.datepicker table tr td.active.disabled,.datepicker table tr td.active.disabled:hover{background-color:var(--minical-active-bg,#04c);border:1px solid var(--minical-active-border-color,#04c);color:var(--minical-active-color,#fff)}\n.datepicker table tr td.active:hover,.datepicker table tr td.active.disabled:hover,.datepicker table tr td.active:active,.datepicker table tr td.active:hover:active,.datepicker table tr td.active.disabled:active,.datepicker table tr td.active.disabled:hover:active,.datepicker table tr td.active.disabled,.datepicker table tr td.active:hover.disabled,.datepicker table tr td.active[disabled],.datepicker table tr td.active:hover[disabled],.datepicker table tr td.active.disabled[disabled],.datepicker table tr td.active.disabled:hover[disabled]{background-color:var(--minical-active-bg-hover,#04c)}\n.datepicker table tr td span{display:block;width:23%;height:54px;line-height:54px;float:left;margin:1%;cursor:pointer;border-radius:4px}\n.datepicker table tr td span:hover,.datepicker table tr td span.focused{background:#eee}\n.datepicker table tr td span.disabled,.datepicker table tr td span.disabled:hover{background:none;color:var(--minical-day-disabled-color,#999);;cursor:default}\n.datepicker table tr td span.active,.datepicker table tr td span.active:hover,.datepicker table tr td span.active.disabled,.datepicker table tr td span.active.disabled:hover{background-color:var(--minical-active-bg,#04c);border:1px solid var(--minical-active-border-color,#04c);color:var(--minical-active-color,#fff)}\n.datepicker table tr td span.active:hover,.datepicker table tr td span.active:hover:hover,.datepicker table tr td span.active.disabled:hover,.datepicker table tr td span.active.disabled:hover:hover,.datepicker table tr td span.active:active,.datepicker table tr td span.active:hover:active,.datepicker table tr td span.active.disabled:active,.datepicker table tr td span.active.disabled:hover:active,.datepicker table tr td span.active.disabled,.datepicker table tr td span.active:hover.disabled,.datepicker table tr td span.active.disabled.disabled,.datepicker table tr td span.active.disabled:hover.disabled,.datepicker table tr td span.active[disabled],.datepicker table tr td span.active:hover[disabled],.datepicker table tr td span.active.disabled[disabled],.datepicker table tr td span.active.disabled:hover[disabled]{background-color:var(--minical-active-bg-hover,#04c)}\n.datepicker table tr td span.old,.datepicker table tr td span.new{color:var(--minical-day-disabled-color,#999);}\n.datepicker .datepicker-switch{width:145px}\n.datepicker .datepicker-switch,.datepicker .prev,.datepicker .next,.datepicker tfoot tr th{cursor:pointer}\n.datepicker .datepicker-switch:hover,.datepicker .prev:hover,.datepicker .next:hover,.datepicker tfoot tr th:hover{background:#eee}\n.datepicker .prev.disabled,.datepicker .next.disabled{visibility:hidden}\n.datepicker .cw{font-size:10px;width:12px;padding:0 2px 0 5px;vertical-align:middle}\n.input-append.date .add-on,.input-prepend.date .add-on{cursor:pointer}\n.input-append.date .add-on i,.input-prepend.date .add-on i{margin-top:3px}\n.input-daterange input{text-align:center}\n.input-daterange input:first-child{border-radius:3px 0 0 3px}\n.input-daterange input:last-child{border-radius:0 3px 3px 0}\n.input-daterange .add-on{display:inline-block;width:auto;min-width:16px;height:20px;padding:4px 5px;font-weight:400;line-height:20px;text-align:center;text-shadow:0 1px 0 #fff;vertical-align:middle;background-color:#eee;border:1px solid #ccc;margin-left:-5px;margin-right:-5px}\n.datepicker.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;float:left;display:none;min-width:160px;list-style:none;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,0.2);border-radius:5px;box-shadow:0 5px 10px rgba(0,0,0,0.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box;*border-right-width:2px;*border-bottom-width:2px;color:#333;font-size:13px;line-height:20px}\n.datepicker.dropdown-menu th,.datepicker.datepicker-inline th,.datepicker.dropdown-menu td,.datepicker.datepicker-inline td{padding:4px 5px}\n.calendriermini{margin-bottom:1em}\n.calendriermini .calendar-container{height:17em;position:relative}\n.calendriermini .calendar-container .image_loading{position:absolute;top:50%;left:50%;margin-top:-16px;margin-left:-16px}\n:root{--minical-border-color:#ccc;--minical-active-bg:#f3d17a;--minical-active-color:#333;--minical-active-border-color:transparent;--minical-active-bg-hover:#deba5d;--minical-border-dark-color:#999;--minical-day-disabled-color:#999;--minical-calendrier-couleur6-bg:#DBB8DC;--minical-calendrier-couleur6-bg-hover:#cd9fce;--minical-calendrier-couleur6-color:#636}\n.js .calendriermini .calendar-container .alt{display:none}\n.calendriermini table{width:100%;font-size:.8em;text-align:center;margin:0 auto;border-collapse:collapse}\n.calendriermini table caption{margin:0 auto;padding:0}\n.calendriermini table th{padding:0}\n.calendriermini table th,td{width:14%;line-height:1.75em;padding:0;background:#fff}\n.calendriermini table .day.active{font-weight:700}\n.calendriermini .datepicker .day.calendrier-couleur1{background-color:var(--minical-calendrier-couleur1-bg,var(--minical-active-bg));border-color:var(--minical-calendrier-couleur1-border-color,var(--minical-active-border-color));color:var(--minical-calendrier-couleur1-color,var(--minical-active-color))}\n.calendriermini .datepicker .day.calendrier-couleur1:hover,.calendriermini .datepicker .day.calendrier-couleur1:active{background-color:var(--minical-calendrier-couleur1-bg-hover,var(--minical-active-bg-hover))}\n.calendriermini .datepicker .day.calendrier-couleur2{background-color:var(--minical-calendrier-couleur2-bg,var(--minical-active-bg));border-color:var(--minical-calendrier-couleur2-border-color,var(--minical-active-border-color));color:var(--minical-calendrier-couleur2-color,var(--minical-active-color))}\n.calendriermini .datepicker .day.calendrier-couleur2:hover,.calendriermini .datepicker .day.calendrier-couleur2:active{background-color:var(--minical-calendrier-couleur2-bg-hover,var(--minical-active-bg-hover))}\n.calendriermini .datepicker .day.calendrier-couleur3{background-color:var(--minical-calendrier-couleur3-bg,var(--minical-active-bg));border-color:var(--minical-calendrier-couleur3-border-color,var(--minical-active-border-color));color:var(--minical-calendrier-couleur3-color,var(--minical-active-color))}\n.calendriermini .datepicker .day.calendrier-couleur3:hover,.calendriermini .datepicker .day.calendrier-couleur3:active{background-color:var(--minical-calendrier-couleur3-bg-hover,var(--minical-active-bg-hover))}\n.calendriermini .datepicker .day.calendrier-couleur4{background-color:var(--minical-calendrier-couleur4-bg,var(--minical-active-bg));border-color:var(--minical-calendrier-couleur4-border-color,var(--minical-active-border-color));color:var(--minical-calendrier-couleur4-color,var(--minical-active-color))}\n.calendriermini .datepicker .day.calendrier-couleur4:hover,.calendriermini .datepicker .day.calendrier-couleur4:active{background-color:var(--minical-calendrier-couleur4-bg-hover,var(--minical-active-bg-hover))}\n.calendriermini .datepicker .day.calendrier-couleur5{background-color:var(--minical-calendrier-couleur5-bg,var(--minical-active-bg));border-color:var(--minical-calendrier-couleur5-border-color,var(--minical-active-border-color));color:var(--minical-calendrier-couleur5-color,var(--minical-active-color))}\n.calendriermini .datepicker .day.calendrier-couleur5:hover,.calendriermini .datepicker .day.calendrier-couleur5:active{background-color:var(--minical-calendrier-couleur5-bg-hover,var(--minical-active-bg-hover))}\n.calendriermini .datepicker .day.calendrier-couleur6{background-color:var(--minical-calendrier-couleur6-bg,var(--minical-active-bg));border-color:var(--minical-calendrier-couleur6-border-color,var(--minical-active-border-color));color:var(--minical-calendrier-couleur6-color,var(--minical-active-color))}\n.calendriermini .datepicker .day.calendrier-couleur6:hover,.calendriermini .datepicker .day.calendrier-couleur6:active{background-color:var(--minical-calendrier-couleur6-bg-hover,var(--minical-active-bg-hover))}\n\nold day\n</style>\n</div>\n\t\n    \n     \n\n\t\t<div id=\"liens_accueil\">\n\t\t\t\n\t\t\t\t\t<a class=\"lien_accueil\" href=\"http://www.ac-versailles.fr\">\n\t\t\t    <img src=\"local/cache-vignettes/L150xH61/siteon68-17cba.png?1693388126\" class=\"spip_logo\" width=\"150\" height=\"61\" alt=\"liens_accueil\">\n\t\t\t\t  </a>\n\t\t\t\n\t\t\t\t\t<a class=\"lien_accueil\" href=\"https://0910625k.index-education.net/pronote/\">\n\t\t\t    <img src=\"local/cache-vignettes/L150xH61/siteon77-51ebd.png?1693388126\" class=\"spip_logo\" width=\"150\" height=\"61\" alt=\"liens_accueil\">\n\t\t\t\t  </a>\n\t\t\t\n\t\t\t\t\t<a class=\"lien_accueil\" href=\"http://www.greta.ac-versailles.fr/\">\n\t\t\t    <img src=\"local/cache-vignettes/L150xH61/siteon19-e8536.png?1693388126\" class=\"spip_logo\" width=\"150\" height=\"61\" alt=\"liens_accueil\">\n\t\t\t\t  </a>\n\t\t\t\n\t\t\t\t\t<a class=\"lien_accueil\" href=\"https://psn.monlycee.net/\">\n\t\t\t    <img src=\"local/cache-vignettes/L150xH65/siteon78-16dd7.png?1693388126\" class=\"spip_logo\" width=\"150\" height=\"65\" alt=\"liens_accueil\">\n\t\t\t\t  </a>\n\t\t\t\n\t\t\t\t\t<a class=\"lien_accueil\" href=\"http://www.lyc-rosaparks-montgeron.ac-versailles.fr/\">\n\t\t\t    <img src=\"local/cache-vignettes/L150xH76/siteon79-51a72.jpg?1693388126\" class=\"spip_logo\" width=\"150\" height=\"76\" alt=\"liens_accueil\">\n\t\t\t\t  </a>\n\t\t\t\n\t\t\t\t\t<a class=\"lien_accueil\" href=\"http://www.lyc-rosaparks-montgeron.ac-versailles.fr/\">\n\t\t\t    <img src=\"local/cache-vignettes/L137xH150/siteon80-0e839.jpg?1693388126\" class=\"spip_logo spip_logo_survol\" width=\"137\" height=\"150\" alt=\"liens_accueil\" data-src-hover=\"IMG/logo/siteoff80.jpg?1537040252\">\n\t\t\t\t  </a>\n\t\t\t\n\t </div>\n\n\t\n\t\n     \n\n</section></div>\n\t\t\t</div>\n\t\t\t<div class=\"aside  col span3\" id=\"aside\">\n\t\t\t\t<div class=\"form-search\">\n<div class=\"formulaire_spip formulaire_recherche form-search\" id=\"formulaire_recherche\">\n<form action=\"spip.php?page=recherche\" method=\"get\"><div>\n\t<input name=\"page\" value=\"recherche\" type=\"hidden\">\n\t\n\t<div class=\"input-append\">\n\t\t<input type=\"search\" class=\"search text search-query\" name=\"recherche\" id=\"recherche\" accesskey=\"4\" autocapitalize=\"off\" autocorrect=\"off\">\n\t\t<button type=\"submit\" class=\"btn \" title=\"Rechercher\"><i class=\"icon-search\"></i></button>\n\t</div>\n</div></form>\n</div>\n</div>\n\n\n<ul class=\"panel-group well rubriques\" id=\"accordion\">\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique4\">Actualités</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n             \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title\">\n                <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse179\" class=\"toggle collapsed\"></a>\n                <a href=\"spip.php?rubrique179\" class=\"branche\">Présentation du lycée</a>\n            </h4>\n        </div>\n        <div id=\"collapse179\" class=\"panel-collapse collapse\">\n            \n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique157\"> Infirmerie</a></li>\n                \n                <li><a href=\"spip.php?rubrique228\"> L’histoire du lycée</a></li>\n                \n                <li><a href=\"spip.php?rubrique196\"> Les règlements</a></li>\n                \n                <li><a href=\"spip.php?rubrique220\"> Projet d’établissement</a></li>\n                \n                <li><a href=\"spip.php?rubrique164\"> Vie Scolaire</a></li>\n                \n                </ul>\n            \n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique219\">Réforme du lycée</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique190\">Orientation</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n                 \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title\">\n                <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse3\" class=\"toggle collapsed\"></a>\n                <a href=\"spip.php?rubrique3\" class=\"branche\">Enseignements</a>\n            </h4>\n        </div>\n        <div id=\"collapse3\" class=\"panel-collapse collapse\">\n            \n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique99\"> Les Arts</a>\n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique226\"> Arts plastiques</a></li>\n                \n                <li><a href=\"spip.php?rubrique223\"> Cinéma-Audiovisuel</a></li>\n                \n                <li><a href=\"spip.php?rubrique227\"> Musique</a></li>\n                \n                <li><a href=\"spip.php?rubrique225\"> Théâtre</a></li>\n                \n                </ul>\n            </li>\n                \n                <li><a href=\"spip.php?rubrique95\"> Philosophie</a></li>\n                \n                <li><a href=\"spip.php?rubrique158\"> DGEMC </a></li>\n                \n                <li><a href=\"spip.php?rubrique106\"> Les langues vivantes</a>\n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique233\"> Anglais</a></li>\n                \n                <li><a href=\"spip.php?rubrique172\"> Chinois</a></li>\n                \n                <li><a href=\"spip.php?rubrique234\"> Espagnol</a></li>\n                \n                <li><a href=\"spip.php?rubrique188\"> Portugais</a></li>\n                \n                </ul>\n            </li>\n                \n                <li><a href=\"spip.php?rubrique87\"> Enseignements scientifiques</a>\n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique88\"> Mathématiques</a></li>\n                \n                <li><a href=\"spip.php?rubrique230\"> NSI</a></li>\n                \n                </ul>\n            </li>\n                \n                <li><a href=\"spip.php?rubrique66\"> EPS</a></li>\n                \n                <li><a href=\"spip.php?rubrique160\"> SES</a></li>\n                \n                <li><a href=\"spip.php?rubrique43\"> Filière STMG</a></li>\n                \n                <li><a href=\"spip.php?rubrique215\"> Série STI2D </a></li>\n                \n                </ul>\n            \n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n            \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title\">\n                <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse62\" class=\"toggle collapsed\"></a>\n                <a href=\"spip.php?rubrique62\" class=\"branche\">BTS / Prépa Arts</a>\n            </h4>\n        </div>\n        <div id=\"collapse62\" class=\"panel-collapse collapse\">\n            \n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique30\"> BTS Comptabilité et Gestion (CG)</a></li>\n                \n                <li><a href=\"spip.php?rubrique31\"> BTS Gestion de la PME</a></li>\n                \n                <li><a href=\"spip.php?rubrique29\"> BTS Support à l’action managériale (SAM)</a></li>\n                \n                <li><a href=\"spip.php?rubrique216\"> Prépa Arts (CPES-CAAP)</a></li>\n                \n                </ul>\n            \n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n              \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title\">\n                <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse64\" class=\"toggle collapsed\"></a>\n                <a href=\"spip.php?rubrique64\" class=\"branche\">Vie lycéenne</a>\n            </h4>\n        </div>\n        <div id=\"collapse64\" class=\"panel-collapse collapse\">\n            \n                <ul class=\"panel-body table\">\n                \n                <li><a href=\"spip.php?rubrique212\"> Association Sportive</a></li>\n                \n                <li><a href=\"spip.php?rubrique189\"> Concours d’écriture</a></li>\n                \n                <li><a href=\"spip.php?rubrique222\"> Education à l’image</a></li>\n                \n                <li><a href=\"spip.php?rubrique156\"> Journal des lycéens</a></li>\n                \n                <li><a href=\"spip.php?rubrique194\"> La MDL - Les Clubs</a></li>\n                \n                <li><a href=\"spip.php?rubrique195\"> Lycée Vert</a></li>\n                \n                </ul>\n            \n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique63\">CDI</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique153\">Restauration</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique105\">Parents d’élèves</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique103\">Clinique FSEF de Varennes Jarcy</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n    <li class=\"panel panel-default\">\n        \n        <div class=\"panel-heading\">\n            <h4 class=\"panel-title feuille\">\n                <a href=\"spip.php?rubrique49\">En pratique</a>\n            </h4>\n        </div>\n        \n    </li>\n    \n</ul>\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\t<div class=\"footer\" id=\"footer\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"colophon\">\n\t 2007-2025 &nbsp;—&nbsp;Lycée Rosa Parks de Montgeron  (académie de Versailles)<p>Directeur de publication : Sebastien Valeri</p>\n\t<p>\n\t\t\t<a href=\"spip.php?page=login&amp;url=.%2F\" rel=\"nofollow\" class=\"login_modal\"><i class=\"icon-user\"></i> Se connecter</a><span class=\"sep\"> | </span>\t\n\t<a rel=\"contents\" href=\"spip.php?page=plan\"><i class=\"icon-asterisk\"></i> Plan du site</a><span class=\"sep\"> | </span>\n\t<a href=\"spip.php?page=mentions\" title=\"Informations sur le site\"><i class=\"icon-info-sign\"></i> Mentions légales</a><span class=\"sep\"> | </span>\n\t<a href=\"spip.php?page=backend\" rel=\"alternate\" title=\"Syndiquer tout le site\"><img src=\"squelettes-dist/img/feed.png?1724149392\" alt=\"Suivre la vie du site\" width=\"16\" height=\"16\">&nbsp;RSS&nbsp;2.0</a>\n\t\n\t</p>\n</div>\n<small class=\"generator\">\n\t<a href=\"https://www.spip.net/\" rel=\"generator\" title=\"Site réalisé avec SPIP\" class=\"spip_out\" target=\"_blank\"><img src=\"plugins/scolaspip/spip.png?1669195641\" alt=\"SPIP\" width=\"60\" height=\"40\"></a>\n\t<a href=\"https://contrib.spip.net/?article4749\" title=\"Squelette ScolaSPIP\"><img src=\"plugins/scolaspip/img/scolaspip.png?1669195641\" alt=\"ScolaSPIP\" width=\"95\" height=\"40\"></a>\n</small>\t\t</div>\n\t</div>\n</div>\n<div style=\"float:left;width:0;height:0;position:absolute;left:-5000px;top:-5000px;\"><input type=\"hidden\" name=\"spip_virtualbufferupdate\" id=\"spip_virtualbufferupdate\" value=\"0\"></div><div id=\"backtotop\" title=\"Haut de page\"><span>▲</span></div></body></html>",
+    "ip": "195.83.96.84",
+    "cookies": {
+      "skipped": "No cookies"
+    },
+    "tech_stack": {
+      "urls": {
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/": {
+          "status": 200
+        }
+      },
+      "technologies": [
+        {
+          "slug": "spip",
+          "name": "SPIP",
+          "description": "SPIP is a content management system written in PHP that uses one or more databases like SQL, SQLite or PostgreSQL.",
+          "confidence": 100,
+          "version": "4.1.18",
+          "icon": "spip.svg",
+          "website": "https://www.spip.net",
+          "cpe": "cpe:2.3:a:spip:spip:*:*:*:*:*:*:*:*",
+          "categories": [
+            {
+              "id": 1,
+              "slug": "cms",
+              "name": "CMS"
+            }
+          ],
+          "rootPath": true
+        },
+        {
+          "slug": "php",
+          "name": "PHP",
+          "description": "PHP is a general-purpose scripting language used for web development.",
+          "confidence": 100,
+          "version": null,
+          "icon": "PHP.svg",
+          "website": "https://php.net",
+          "cpe": "cpe:2.3:a:php:php:*:*:*:*:*:*:*:*",
+          "categories": [
+            {
+              "id": 27,
+              "slug": "programming-languages",
+              "name": "Programming languages"
+            }
+          ]
+        },
+        {
+          "slug": "ubuntu",
+          "name": "Ubuntu",
+          "description": "Ubuntu is a free and open-source operating system on Linux for the enterprise server, desktop, cloud, and IoT.",
+          "confidence": 100,
+          "version": null,
+          "icon": "Ubuntu.svg",
+          "website": "https://www.ubuntu.com/server",
+          "cpe": "cpe:2.3:o:canonical:ubuntu_linux:*:*:*:*:*:*:*:*",
+          "categories": [
+            {
+              "id": 28,
+              "slug": "operating-systems",
+              "name": "Operating systems"
+            }
+          ],
+          "rootPath": true
+        },
+        {
+          "slug": "apache-http-server",
+          "name": "Apache HTTP Server",
+          "description": "Apache is a free and open-source cross-platform web server software.",
+          "confidence": 100,
+          "version": "2.4.52",
+          "icon": "Apache.svg",
+          "website": "https://httpd.apache.org/",
+          "cpe": "cpe:2.3:a:apache:http_server:*:*:*:*:*:*:*:*",
+          "categories": [
+            {
+              "id": 22,
+              "slug": "web-servers",
+              "name": "Web servers"
+            }
+          ],
+          "rootPath": true
+        },
+        {
+          "slug": "jquery",
+          "name": "jQuery",
+          "description": "jQuery is a JavaScript library which is a free, open-source software designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.",
+          "confidence": 100,
+          "version": "3.6.3",
+          "icon": "jQuery.svg",
+          "website": "https://jquery.com",
+          "cpe": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+          "categories": [
+            {
+              "id": 59,
+              "slug": "javascript-libraries",
+              "name": "JavaScript libraries"
+            }
+          ],
+          "rootPath": true
+        },
+        {
+          "slug": "rss",
+          "name": "RSS",
+          "description": "RSS is a family of web feed formats used to publish frequently updated works—such as blog entries, news headlines, audio, and video—in a standardized format.",
+          "confidence": 100,
+          "version": null,
+          "icon": "RSS.svg",
+          "website": "https://www.rssboard.org/rss-specification",
+          "cpe": null,
+          "categories": [
+            {
+              "id": 19,
+              "slug": "miscellaneous",
+              "name": "Miscellaneous"
+            }
+          ],
+          "rootPath": true
+        }
+      ]
+    },
+    "ssl": "{'subject': {'C': 'FR', 'ST': 'Île-de-France', 'L': 'Versailles', 'O': \"RECTORAT DE L'ACADEMIE DE VERSAILLES\", 'CN': '*.ac-versailles.fr'}, 'issuer': {'C': 'GR', 'O': 'Hellenic Academic and Research Institutions CA', 'CN': 'GEANT TLS ECC 1'}, 'subjectaltname': 'DNS:*.ac-versailles.fr', 'infoAccess': {'CA Issuers - URI': ['http://crt.harica.gr/HARICA-GEANT-TLS-E1.cer'], 'OCSP - URI': ['http://ocsp-tls.harica.gr']}, 'ca': False, 'bits': 384, 'pubkey': {'type': 'Buffer', 'data': [4, 131, 165, 190, 224, 46, 92, 59, 213, 9, 38, 73, 31, 166, 143, 90, 243, 71, 145, 144, 235, 224, 83, 220, 69, 138, 87, 223, 164, 253, 221, 85, 85, 141, 221, 99, 253, 224, 201, 176, 157, 237, 36, 35, 54, 35, 165, 149, 105, 202, 152, 43, 79, 21, 95, 27, 231, 184, 192, 170, 46, 207, 76, 219, 175, 96, 67, 197, 241, 16, 248, 15, 115, 181, 178, 9, 176, 141, 19, 221, 57, 222, 109, 135, 239, 235, 126, 38, 100, 26, 33, 119, 5, 74, 147, 110, 135]}, 'asn1Curve': 'secp384r1', 'nistCurve': 'P-384', 'valid_from': 'Sep 25 06:54:18 2025 GMT', 'valid_to': 'Sep 25 06:54:18 2026 GMT', 'fingerprint': 'D3:BB:DD:EC:82:4E:77:1F:3E:06:CF:C9:0D:AF:4C:EF:9C:6A:12:82', 'fingerprint256': 'A8:5A:1C:6B:9F:68:C3:5D:95:4E:01:07:C7:F7:17:5C:B4:9F:7F:E0:08:E9:C9:49:D1:20:18:31:A4:77:F3:39', 'fingerprint512': 'A9:C6:75:1B:B0:44:59:F6:02:F9:9D:20:C3:7E:BD:D9:6E:37:38:D6:BD:6C:7C:68:35:E0:12:E1:90:9C:80:44:6D:1B:86:77:F2:40:AE:37:4F:2C:47:B8:71:D8:A9:69:7D:61:57:78:99:0A:6C:3F:3B:CF:28:20:10:C8:CC:32', 'ext_key_usage': ['1.3.6.1.5.5.7.3.2', '1.3.6.1.5.5.7.3.1'], 'serialNumber': '0AB77C8DBF823FD93B1EFEE1085B3794'}",
+    "whois": {
+      "error": "No matches found for domain in internic database"
+    },
+    "block_lists": {
+      "blocklists": [
+        {
+          "server": "AdGuard",
+          "serverIp": "176.103.130.130",
+          "isBlocked": false
+        },
+        {
+          "server": "AdGuard Family",
+          "serverIp": "176.103.130.132",
+          "isBlocked": false
+        },
+        {
+          "server": "CleanBrowsing Adult",
+          "serverIp": "185.228.168.10",
+          "isBlocked": false
+        },
+        {
+          "server": "CleanBrowsing Family",
+          "serverIp": "185.228.168.168",
+          "isBlocked": false
+        },
+        {
+          "server": "CleanBrowsing Security",
+          "serverIp": "185.228.168.9",
+          "isBlocked": false
+        },
+        {
+          "server": "CloudFlare",
+          "serverIp": "1.1.1.1",
+          "isBlocked": false
+        },
+        {
+          "server": "CloudFlare Family",
+          "serverIp": "1.1.1.3",
+          "isBlocked": false
+        },
+        {
+          "server": "Comodo Secure",
+          "serverIp": "8.26.56.26",
+          "isBlocked": false
+        },
+        {
+          "server": "Google DNS",
+          "serverIp": "8.8.8.8",
+          "isBlocked": false
+        },
+        {
+          "server": "Neustar Family",
+          "serverIp": "156.154.70.3",
+          "isBlocked": false
+        },
+        {
+          "server": "Neustar Protection",
+          "serverIp": "156.154.70.2",
+          "isBlocked": false
+        },
+        {
+          "server": "Norton Family",
+          "serverIp": "199.85.126.20",
+          "isBlocked": false
+        },
+        {
+          "server": "OpenDNS",
+          "serverIp": "208.67.222.222",
+          "isBlocked": false
+        },
+        {
+          "server": "OpenDNS Family",
+          "serverIp": "208.67.222.123",
+          "isBlocked": false
+        },
+        {
+          "server": "Quad9",
+          "serverIp": "9.9.9.9",
+          "isBlocked": false
+        },
+        {
+          "server": "Yandex Family",
+          "serverIp": "77.88.8.7",
+          "isBlocked": false
+        },
+        {
+          "server": "Yandex Safe",
+          "serverIp": "77.88.8.88",
+          "isBlocked": false
+        }
+      ]
+    },
+    "ports": {
+      "openPorts": [
+        80,
+        443
+      ],
+      "failedPorts": [
+        20,
+        21,
+        22,
+        23,
+        25,
+        53,
+        67,
+        68,
+        69,
+        110,
+        119,
+        123,
+        143,
+        156,
+        161,
+        162,
+        179,
+        194,
+        389,
+        587,
+        993,
+        995,
+        3000,
+        3306,
+        3389,
+        5060,
+        5900,
+        8000,
+        8080,
+        8888
+      ]
+    },
+    "http_sec": {
+      "strictTransportPolicy": false,
+      "xFrameOptions": false,
+      "xContentTypeOptions": false,
+      "xXSSProtection": false,
+      "contentSecurityPolicy": false
+    },
+    "tls": {
+      "error": "getaddrinfo ENOTFOUND tls-observatory.services.mozilla.com"
+    },
+    "security-txt": {
+      "isPresent": false
+    },
+    "linked-pages": {
+      "internal": [
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=sites",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=agenda&date_debut=2025-11-01",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article1704",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article806",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article2039",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article2038",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article2036",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article1970",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?article1808",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/?debut5=5#pagination5",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=agenda&date_debut=2025-10-01",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=agenda&date_debut=2025-12-01",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique4",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/#collapse179",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique179",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique157",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique228",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique196",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique220",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique164",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique219",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique190",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/#collapse3",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique3",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique99",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique226",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique223",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique227",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique225",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique95",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique158",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique106",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique233",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique172",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique234",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique188",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique87",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique88",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique230",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique66",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique160",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique43",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique215",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/#collapse62",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique62",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique30",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique31",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique29",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique216",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/#collapse64",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique64",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique212",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique189",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique222",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique156",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique194",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique195",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique63",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique153",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique105",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique103",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?rubrique49",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=login&url=.%2F",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=plan",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=mentions",
+        "https://lyc-rosaparks-montgeron.ac-versailles.fr/spip.php?page=backend"
+      ],
+      "external": [
+        "http://lyc-rosaparks-montgeron.ac-versailles.fr/",
+        "http://www.ac-versailles.fr/",
+        "http://www.lyc-rosaparks-montgeron.ac-versailles.fr/",
+        "https://monlycee.net/",
+        "https://0910625k.index-education.net/pronote/",
+        "http://www.greta.ac-versailles.fr/",
+        "https://psn.monlycee.net/",
+        "https://www.spip.net/",
+        "https://contrib.spip.net/?article4749"
+      ]
+    },
+    "dnsserver": {
+      "domain": "lyc-rosaparks-montgeron.ac-versailles.fr",
+      "dns": [
+        {
+          "address": "195.83.96.84",
+          "hostname": [
+            "spip-lyc.nat-vip.ac-versailles.fr"
+          ],
+          "dohDirectSupports": false
+        }
+      ]
+    },
+    "dnssec": {
+      "DNSKEY": {
+        "isFound": false,
+        "answer": null,
+        "response": {
+          "Status": 3,
+          "TC": false,
+          "RD": true,
+          "RA": true,
+          "AD": false,
+          "CD": false,
+          "Question": [
+            {
+              "name": "https://lyc-rosaparks-montgeron.ac-versailles.fr.",
+              "type": 48
+            }
+          ],
+          "Authority": [
+            {
+              "name": "ac-versailles.fr.",
+              "type": 6,
+              "TTL": 1800,
+              "data": "a.ns.ac-versailles.fr. hostmaster.ac-versailles.fr. 2025112504 10800 3600 604800 3600"
+            }
+          ],
+          "Comment": "Response from 195.83.95.2."
+        }
+      },
+      "DS": {
+        "isFound": false,
+        "answer": null,
+        "response": {
+          "Status": 3,
+          "TC": false,
+          "RD": true,
+          "RA": true,
+          "AD": false,
+          "CD": false,
+          "Question": [
+            {
+              "name": "https://lyc-rosaparks-montgeron.ac-versailles.fr.",
+              "type": 43
+            }
+          ],
+          "Authority": [
+            {
+              "name": "ac-versailles.fr.",
+              "type": 6,
+              "TTL": 1800,
+              "data": "a.ns.ac-versailles.fr. hostmaster.ac-versailles.fr. 2025112504 10800 3600 604800 3600"
+            }
+          ],
+          "Comment": "Response from 195.83.95.1."
+        }
+      },
+      "RRSIG": {
+        "isFound": false,
+        "answer": null,
+        "response": {
+          "Status": 2,
+          "TC": false,
+          "RD": true,
+          "RA": true,
+          "AD": false,
+          "CD": false,
+          "Question": [
+            {
+              "name": "https://lyc-rosaparks-montgeron.ac-versailles.fr.",
+              "type": 46
+            }
+          ],
+          "Comment": "Name servers refused query (lame delegation?) [195.83.95.1, 195.83.95.2].",
+          "extended_dns_errors": [
+            {
+              "info_code": 23,
+              "extra_text": "[195.83.95.1] rcode=REFUSED for https://lyc-rosaparks-montgeron.ac-versailles.fr/rrsig"
+            },
+            {
+              "info_code": 23,
+              "extra_text": "[195.83.95.2] rcode=REFUSED for https://lyc-rosaparks-montgeron.ac-versailles.fr/rrsig"
+            },
+            {
+              "info_code": 22,
+              "extra_text": "At delegation ac-versailles.fr for https://lyc-rosaparks-montgeron.ac-versailles.fr/rrsig"
+            }
+          ]
+        }
+      }
+    },
+    "carbon": {
+      "error": "Evaluation failed: TypeError: Failed to fetch\n    at pptr://__puppeteer_evaluation_script__:2:23"
+    },
+    "rank": {},
+    "score_ml": "96.40226364135742",
+    "score_dl": "68.11752319335938",
+    "score_ai": "82.2598934173584",
+    "score_tech": "69.16",
+    "score_analyser": {
+      "components": {
+        "tls": 0.3728219178082192,
+        "headers": 0,
+        "cookies": 1,
+        "ports": 1,
+        "trackers": 0.87,
+        "cve": 1,
+        "blocklist": 1,
+        "domain_age": 0,
+        "whois": 1,
+        "metadata": 1,
+        "geoip": 1,
+        "reputation": 0.6,
+        "ml": 0.822598934173584,
+        "security_txt": 0.7,
+        "csrf": 0.8,
+        "hosting": 0.85,
+        "phishing": 0.98
+      },
+      "weights": {
+        "tls": 0.1607142857142857,
+        "headers": 0.10714285714285712,
+        "cookies": 0.07142857142857142,
+        "ports": 0.044642857142857144,
+        "trackers": 0.05357142857142856,
+        "cve": 0.07142857142857142,
+        "blocklist": 0.08928571428571429,
+        "domain_age": 0.05357142857142856,
+        "whois": 0.02678571428571428,
+        "metadata": 0.03571428571428571,
+        "geoip": 0.044642857142857144,
+        "reputation": 0.05357142857142856,
+        "ml": 0.044642857142857144,
+        "security_txt": 0.017857142857142856,
+        "csrf": 0.008928571428571428,
+        "hosting": 0.008928571428571428,
+        "phishing": 0.10714285714285712
+      },
+      "final_score_0_1": 0.6915516892090702,
+      "score_0_100": 69.16,
+      "risk_level": "medium",
+      "categories": [
+        {
+          "key": "network_security",
+          "label": "Network Security",
+          "score01": 0.7945643835616438,
+          "score100": 79.5,
+          "grade": "C"
+        },
+        {
+          "key": "data_protection",
+          "label": "Data Protection",
+          "score01": 0.75,
+          "score100": 75,
+          "grade": "C"
+        },
+        {
+          "key": "access_control",
+          "label": "Access Control",
+          "score01": 0.6625,
+          "score100": 66.2,
+          "grade": "D"
+        },
+        {
+          "key": "security_awareness",
+          "label": "Security Awareness",
+          "score01": 0.7287664890289306,
+          "score100": 72.9,
+          "grade": "C"
+        }
+      ],
+      "phishing_risk_level": "safe",
+      "phishing_reasons": [
+        "safe_urls_whitelist"
+      ]
+    }
+  }
+]
